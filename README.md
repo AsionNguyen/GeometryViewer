@@ -1,2 +1,2 @@
 # GeometryViewer
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[a link](https://github.com/AsionNguyen/GeometryViewer/blob/main/4_4.820_0.046.vtp)
